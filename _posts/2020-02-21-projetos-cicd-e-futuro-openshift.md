@@ -11,7 +11,10 @@ Ontem, meu gestor me pediu para acelerar os projetos de CICD, como ja tinha come
 
 Ao tentar subir, me mostrava um erro, ou o `docker-py` tava instalado mas nao condizia com o o python usado, no qual é o python2, ou faltava o `docker sdk for python`.
 
-Revi o codigo do inventory e me mostrou isso, usando este codigo *grep -v '^#' inventory | grep -v '^$'* isso dentro da pasta `installer`
+Revi o codigo do inventory e me mostrou isso, usando este codigo abaixo isso dentro da pasta `installer`
+    *grep -v '^#' inventory | grep -v '^$'*
+
+A saída é essa:
 
     localhost ansible_connection=local ansible_python_interpreter="/usr/bin/env python3"
     [all:vars]
