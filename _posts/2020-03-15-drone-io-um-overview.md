@@ -34,6 +34,6 @@ trigger:
 
 Este exemplo é so um no qual coloquei, mas existem varias formas de realizar o seu CI com o Drone. 
 
-Espero que surja mais adeptos para usar esta maravilhosa ferramenta. Sintam-se a vontade para mandar comentarios sobre.
+Espero que surja mais adeptos para usar esta maravilhosa ferramenta. Sintam-se a vontade para me contactar sobre. Twitter ou Email.
 
 *Música para o post - `Chico Science e Nação Zumbi - Manguetown`*
