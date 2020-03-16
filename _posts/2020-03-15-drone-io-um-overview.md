@@ -2,6 +2,7 @@
 layout: post
 title:  "Drone.io - Um Overview"
 date:   2020-03-15 23:11:01 -0300
+comments: true
 categories: diario
 ---
 
