@@ -27,6 +27,13 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+# Google Analytics
+jekyll-analytics:
+  GoogleAnalytics:
+    id: 213751003
+    anonymizeIP: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
