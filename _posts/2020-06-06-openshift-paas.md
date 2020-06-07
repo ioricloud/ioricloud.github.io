@@ -20,4 +20,4 @@ Conclusão, tenho mais uma nova batalha para ganhar. Mas não desistirei fácil 
 
 De quebra, este post foi com um bom som ao fundo.
 
-*musica para post - `Red Hot Chilli Pepper - Dark Necessities`
+*musica para post - `Red Hot Chilli Pepper - Dark Necessities`*
